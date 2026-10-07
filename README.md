@@ -1,2 +1,2 @@
-# PRACTICAL-10
+# DAA PRACTICAL-10
 Implement Kruskal’s algorithm.
